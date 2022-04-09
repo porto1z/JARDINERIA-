@@ -85,7 +85,7 @@ ul {
 
 hr {
   margin: 10px 0;
-  color: #f3f3f8;
+  color: #0b732e;
 }
 
 /* Responsive Button */
@@ -500,3 +500,13 @@ h2.d-flex.justify-content-center.mb-3 {
 *, ::after, ::before {
     box-sizing: border-box;
 }
+
+/*Micompras*/
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    line-height: 1.42857143;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+    box-sizing: border-box;
+    padding: 5% 0;
